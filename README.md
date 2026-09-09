@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @giomeijer23
-- 👀 I’m interested in jacksFitness
-- 🌱 I’m currently learning how to transform
-- 💞️ I’m looking to collaborate with Megatron
-- 📫 How to reach me @gio.meijer (ig)
-- 😄 Pronouns: Optimus Prime
-- ⚡ Fun fact: I bench more than you
+# Hi, I'm Gio 👋
 
-<!---
-giomeijer23/giomeijer23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **HBO-ICT – Software Engineering Student**
+💻 Passionate about **software development, technology and building applications**
+
+I'm a Software Engineering student at **HZ University of Applied Sciences** with a strong interest in developing practical and scalable software. I enjoy learning new technologies, working on projects and continuously improving my development skills.
+
+## 🚀 About Me
+
+* 🎓 Studying **HBO-ICT – Software Engineering**
+* 💻 Interested in **full-stack development & software architecture**
+* 🌱 Currently improving my skills in modern web development
+* 🛠️ Enjoy building applications and experimenting with new technologies
+* 📚 Always learning and looking for ways to improve my technical skills
+
+### 💡 *Always learning. Always building. Always improving.*
